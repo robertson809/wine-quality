@@ -1,4 +1,4 @@
-# wine-quality
+# Predicting Wine Quality with Gradient Descent
 
 by Michael Robertson and Alex Angus for Davidson College's Machine Learning Homework 1
 
